@@ -1,0 +1,2 @@
+# GoogleDriveUploader
+PyDriveを用いてGoogleDriveに自動アップロードするコード
